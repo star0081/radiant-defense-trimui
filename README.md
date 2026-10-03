@@ -1,6 +1,6 @@
 # Radiant Defense на TrimUI Smart Pro
 
-Порт [Radiant Defense](https://hexage.net/) (Hexage, движок Monkey/Mojo, версия 2.3.15) на TrimUI Smart Pro со стоковой прошивкой. Прошивку менять не нужно.
+Порт [Radiant Defense](https://hexage.net/) (Hexage, движок Monkey/Mojo, версия 2.3.15) на TrimUI Smart Pro со стоковой прошивкой.
 
 В этом репозитории только обвязка: загрузчик, Java-заглушки Android и нативная библиотека, которая рисует кадр, читает геймпад и играет звук. APK, dex, ресурсы и оригинальный `libmojo.so` сюда не входят. Игра остаётся у Hexage, для запуска нужна своя копия.
 
