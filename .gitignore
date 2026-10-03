@@ -1,0 +1,26 @@
+# The game itself is not part of this repository.
+*.apk
+*.dex
+*.odex
+
+# Converted game bytecode and local build products.
+port/build/
+_tools/
+radiant.jar
+shim.jar
+*.so
+*.dll
+*.exe
+*.o
+
+# Runtime leftovers
+logs/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+Thumbs.db
+Desktop.ini
